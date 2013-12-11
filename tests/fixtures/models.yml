@@ -1,0 +1,4 @@
+array_of_hash:
+  - {id: '001', name: 'hoge', sex: 'man', age: '30'}
+  - {id: '002', name: 'fuge', sex: 'woman', age: '25'}
+  - {id: '003', name: 'piyo', sex: 'woman', age: '20'}

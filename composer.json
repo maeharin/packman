@@ -1,0 +1,5 @@
+{
+    "require-dev": {
+        "symfony/yaml": "v2.3.5"
+    }
+}
